@@ -14,3 +14,5 @@ public class Volume {
 }
 "@
 [Volume]::VolumeUp()
+
+start chrome --start-fullscreen "http://maxwellstevenson.com/"
