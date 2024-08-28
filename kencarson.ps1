@@ -15,4 +15,4 @@ public class Volume {
 "@
 [Volume]::VolumeUp()
 
-start "chrome.exe" http://www.stackoverflow.com
+start "chrome.exe" https://www.youtube.com/watch?v=dQw4w9WgXcQ
